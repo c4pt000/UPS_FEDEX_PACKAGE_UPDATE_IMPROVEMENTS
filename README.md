@@ -7,3 +7,6 @@ as the package moves to the next node on the way to the destination, and is tran
 
 
 upon delivery of the package the driver scans the package for delivery to the customer,
+
+
+instead of rescanning every package per movement through physical node on route to delivery destination
